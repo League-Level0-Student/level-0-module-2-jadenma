@@ -7,7 +7,7 @@
    * If you cannot play sound on this computer, set canPlaySounds to false.
    * If you are not sure, ask your teacher 
    * *****************/
-  boolean canPlaySounds = true;
+  boolean canPlaySounds = false;
 
 int x = 50;
 
